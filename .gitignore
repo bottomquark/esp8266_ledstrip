@@ -1,0 +1,4 @@
+.pioenvs
+.piolibdeps
+*.swp
+credentials.h
